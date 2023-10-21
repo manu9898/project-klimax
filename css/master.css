@@ -290,12 +290,12 @@ footer{
         display: flex;
         flex-direction: row;
         flex-wrap:wrap;
-        transform: translateX(100px);
+        transform: translateX(80px);
         padding-top: 35px;
 
     }
     .solde{
-        transform: translateX(-50px);
+        transform: translateX(-65px);
     }
 
     .gangDeBoxDiv{
@@ -307,5 +307,8 @@ footer{
         margin-left: 15px;
     }
 
+    .imgTop{
+        min-height: 300px;
+    }
 }
 
