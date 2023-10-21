@@ -265,6 +265,24 @@ footer{
    padding-top: 30px;
     padding-left: 20px;
 }
+    .imgFooter2{
+        max-width: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .divImgFooter2{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .divImgFooter{
+        display: flex;
+        flex-direction: row;
+        gap:80px;
+    }
+
 }
 
 @media (max-width: 466px) {
@@ -274,8 +292,8 @@ footer{
     .imgFooter{
         padding-left: 20px;
     }
+    
 }
-
 
 
 @media (max-width: 477px) {
